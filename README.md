@@ -1,1 +1,1 @@
-Pure <HTML> practice code is here.
+Pure HTML practice code is here.
